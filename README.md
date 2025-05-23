@@ -1,1 +1,1 @@
-
+This repository contains a collection of beginner-friendly C programs that demonstrate practical applications of conditional logic and arithmetic operations in real-world scenarios. Each program addresses a unique business or financial use case, such as calculating discounts, taxes, overtime pay, utility bills, and loan eligibility
